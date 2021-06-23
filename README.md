@@ -18,7 +18,7 @@
     </p>
 
   > Refer to the official document description [official address](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F) 🔗  
-  > Click here for detailed notes [🔗](./example/git/README.md)  
+  > Click here for detailed notes [🔗](./example/1.git/README.md)  
   
 <h2>2.  Css3</h2>
 <h2>3.  Javascript</h2>
