@@ -1,5 +1,5 @@
 /**
- * avoid document https://webpack.docschina.org/api/compiler-hooks/
+ * official document https://webpack.docschina.org/api/compiler-hooks/
  */
 
 const fs = require("fs");
@@ -7,6 +7,7 @@ const path = require("path")
 
 class FileListPlugin{
 
+  // default options
   static defaultOptions = {
     outputFile: 'static.md'
   }
